@@ -157,9 +157,9 @@ oled.blit(fb_logo, 32, 0)
 oled.show()
 sleep(2)
 
-# large and small fonts
-font10_writer = writer.Writer(oled, font10, verbose=False)
+# various fonts
 font6_writer = writer.Writer(oled, font6, verbose=False)
+font10_writer = writer.Writer(oled, font10, verbose=False)
 courier20_writer = writer.Writer(oled, courier20, verbose=False)
 
 # query BART API and display train info
