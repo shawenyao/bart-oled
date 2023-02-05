@@ -18,4 +18,4 @@
 ## References
 * BART API provided by [bart.gov](https://www.bart.gov/schedules/developers/api)
 * Writer and font scripts by [micropython-font-to-py](https://github.com/peterhinch/micropython-font-to-py)
-* Http request function adapted from [urequests](https://github.com/micropython/micropython-lib/blob/master/python-ecosys/urequests/urequests.py)
+* Implementation of the http request function adapted from [urequests](https://github.com/micropython/micropython-lib/blob/master/python-ecosys/urequests/urequests.py)
