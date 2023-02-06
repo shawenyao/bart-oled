@@ -1,5 +1,7 @@
 # Portable BART Annoucement System
 
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
 ![demo](https://shawenyao.github.io/Photos/BART-OLED/demo.gif)
 
 ## Requirements
