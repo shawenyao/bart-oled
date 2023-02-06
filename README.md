@@ -1,5 +1,10 @@
 # Portable BART Annoucement System
 
+<div align="center">
+  <img src="https://shawenyao.github.io/Photos/BART-OLED/demo.gif" style="width:100%;height:auto;"/>
+</div>
+
+
 ## Requirements
 * [Raspberry Pi Pico W](https://www.raspberrypi.com/products/raspberry-pi-pico/) x 1
 * Breadboard x 1
