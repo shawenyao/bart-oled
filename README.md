@@ -1,4 +1,4 @@
-# Portable BART Annoucement System
+# Portable BART Platform Sign
 
 ![demo](https://github.com/shawenyao/bart-oled/blob/main/demo.gif)
 
