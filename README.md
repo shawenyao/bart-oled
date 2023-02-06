@@ -6,7 +6,7 @@
 * [Raspberry Pi Pico W](https://www.raspberrypi.com/products/raspberry-pi-pico/) x 1
 * Breadboard x 1
 * Male-to-male jump wires x 4
-* 128x64 Pixel OLED Display x 1
+* 128x64 OLED Display x 1
 * Micro-USB  cable x 1
 * Power adaptor or power bank x 1
 
