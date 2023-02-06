@@ -1,6 +1,6 @@
 # Portable BART Annoucement System
 
-![demo](demo.gif)
+![demo](https://github.com/shawenyao/bart-oled/blob/maste/demo.gif)
 
 ## Requirements
 * [Raspberry Pi Pico W](https://www.raspberrypi.com/products/raspberry-pi-pico/) x 1
@@ -14,7 +14,7 @@
 * Connect the OLED display to the Raspberry Pi Pico W on a breadboard
 * Download and flash the [MicroPython firmware](https://www.raspberrypi.com/documentation/microcontrollers/micropython.html)
 * Edit `config.py` with the correct Wi-Fi SSID and password
-* Copy everything in the repository onto the Raspberry Pi Pico W
+* Copy `*.py` in the repository onto the Raspberry Pi Pico W
 * Connect the Raspberry Pi Pico W to a power source
 
 ## References
