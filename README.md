@@ -1,6 +1,6 @@
 # Portable BART Annoucement System
 
-![demo](https://shawenyao.github.io/Photos/BART-OLED/demo.gif)
+![demo](demo.gif)
 
 ## Requirements
 * [Raspberry Pi Pico W](https://www.raspberrypi.com/products/raspberry-pi-pico/) x 1
