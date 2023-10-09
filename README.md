@@ -17,6 +17,9 @@
 * Copy `*.py` in the repository onto the Raspberry Pi Pico W
 * Connect the Raspberry Pi Pico W to a power source
 
+## Example
+* https://www.shawenyao.com/BART-Platform-Sign-Portable/
+
 ## References
 * BART API provided by [bart.gov](https://www.bart.gov/schedules/developers/api)
 * Writer and font scripts by [micropython-font-to-py](https://github.com/peterhinch/micropython-font-to-py)
