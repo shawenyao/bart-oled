@@ -100,7 +100,7 @@ def show_leaving_train():
     oled.show()
     
     # how many cars and line color
-    text = f"{schedule.get(0).split('@')[1]}-car  {schedule.get(0).split('@')[2]} line".upper()
+    text = f"{schedule.get(0).split('@')[1]}-car {schedule.get(0).split('@')[2]} line".upper()
     font6_writer.set_textpos(max(round((128 - len(text) * 8) / 2), 0), 50)
     font6_writer.printstring(text)
     oled.show()
@@ -116,7 +116,7 @@ def show_schedule(top):
     font6_writer.printstring(f"{train[1].split('@')[0][0:13]} {train[0]} min".upper())
     # how many cars and line color
     font6_writer.set_textpos(0, y + 14)
-    font6_writer.printstring(f"{train[1].split('@')[1]}-car  {train[1].split('@')[2]} line".upper())
+    font6_writer.printstring(f"{train[1].split('@')[1]}-car {train[1].split('@')[2]} line".upper())
     oled.show()
 
 
