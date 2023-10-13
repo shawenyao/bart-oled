@@ -11,7 +11,7 @@ password = "xxx"
 scl_pin = 1
 sda_pin = 0
 
-# line color decoder
+# line color encoder
 color_encoder = {
     "YELLOW": "YL",
     "BLUE": "BL",
