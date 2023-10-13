@@ -12,7 +12,7 @@ scl_pin = 1
 sda_pin = 0
 
 # line color decoder
-color_decoder = {
+color_encoder = {
     "YELLOW": "YL",
     "BLUE": "BL",
     "ORANGE": "OR",

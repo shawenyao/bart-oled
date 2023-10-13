@@ -66,7 +66,7 @@ def get_bart_schedule():
             # loop over all trains of the route
             for train in route["estimate"]:
                 if train["cancelflag"] == "0":
-                    schedule[0 if train["minutes"] == "Leaving" else int(train["minutes"])] = f"{route['destination']}@{train['length']}@{color_decoder.get(train['color'].upper())}"
+                    schedule[0 if train["minutes"] == "Leaving" else int(train["minutes"])] = f"{route['destination']}@{train['length']}@{color_encoder.get(train['color'].upper())}"
         return(collections.OrderedDict(sorted(schedule.items())))
 
 # flash the screen
