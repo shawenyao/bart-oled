@@ -113,7 +113,7 @@ def show_schedule(top):
         y = 34
     # line name and estimated time
     font6_writer.set_textpos(0, y)
-    font6_writer.printstring(f"{train[1].split('@')[0][0:13]} {train[0]} min".upper())
+    font6_writer.printstring(f"{train[1].split('@')[0][0:12]} {train[0]} min".upper())
     # how many cars and line color
     font6_writer.set_textpos(0, y + 14)
     font6_writer.printstring(f"{train[1].split('@')[1]}-car, {train[1].split('@')[2]} line".upper())
