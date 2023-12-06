@@ -8,7 +8,7 @@
 * Male-to-male jump wires x 4
 * 128x64 OLED Display x 1
 * Micro-USB  cable x 1
-* Power adaptor or power bank x 1
+* Power adapter or power bank x 1
 
 ## Instructions
 * Connect the OLED display to the Raspberry Pi Pico W on a breadboard
